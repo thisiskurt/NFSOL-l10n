@@ -59,6 +59,10 @@ Each line of the translation may look like examples below:
     "STARTSCREEN_PRESSANYKEY": "Press Any Key <span style=\"color:#fffc00\">[Updated March 30, 2018]</span>",
 ```
 
+#### Add new lines
+
+Compare the difference in **chinese** or **english** translations using programs like Beyond Compare, then add changed lines into your latest translation.
+
 ##### You should...
 
 - ALWAYS edit in **UTF-8 without BOM** encoding.
